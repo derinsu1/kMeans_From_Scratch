@@ -36,4 +36,14 @@ You can see the results of the program for various k values and datasets.
 
 <img width="970" alt="image" src="https://user-images.githubusercontent.com/54302889/146202928-cba39d14-2009-426a-8697-1eebb9dc6cef.png">
 
+<img width="911" alt="image" src="https://user-images.githubusercontent.com/54302889/146232349-989953ce-96d0-4264-983d-b9863a56b692.png">
 
+<br>
+
+<br>
+
+<img width="965" alt="image" src="https://user-images.githubusercontent.com/54302889/146232685-3993249b-a3c2-4039-8356-54e169ae98d6.png">
+
+<img width="968" alt="image" src="https://user-images.githubusercontent.com/54302889/146232881-966cbeaa-a284-46d7-8cba-3cff159952fc.png">
+
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/54302889/146233090-1e98fc4e-1102-4ffc-907f-eddd3426cf0b.png">
